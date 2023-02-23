@@ -19,4 +19,4 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
-"""test new imfnasdasdo"""
+"""test new imfnasdassdfsddo"""
